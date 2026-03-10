@@ -11,7 +11,7 @@ The report covers:
 - Comparative results across recovery tools
 
 ## Files
-- password_auditing_hash_recovery_assessment_report.pdf
+- https://github.com/hammakjaff-netizen/password-auditing-hash-recovery-report/blob/def8a0a7d3956791973fd85dfb894db913c9a4fa/password_auditing_hash_recovery_assessment_report.pdf
 
 ## Notes
 This assessment was performed in a controlled environment for authorized security testing and technical documentation purposes.
